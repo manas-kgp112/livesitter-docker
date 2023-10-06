@@ -127,7 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-docker_livesitter/
+docker_aws
+docker_aws/
 
 # Spyder project settings
 .spyderproject
